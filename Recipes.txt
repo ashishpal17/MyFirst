@@ -3,8 +3,11 @@
 Pasta
 Sausage
 Biriyani
-Kheer
 Chicken Tikka
+
+Beans
+Pizza
+Burger
 
 
 Thank You :)
